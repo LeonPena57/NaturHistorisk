@@ -202,7 +202,7 @@ body#index .hero {
 
 .image-box img {
     width: 100%;
-    height: auto;
+    height: 300px; /* Fixed height for consistency */
     aspect-ratio: auto;
     display: block;
     object-fit: contain;
